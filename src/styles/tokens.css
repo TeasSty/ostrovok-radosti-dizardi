@@ -1,0 +1,39 @@
+:root {
+  --lagoon: #1fa8a0;
+  --lagoon-deep: #0f7f79;
+  --coral: #ff6b5b;
+  --coral-deep: #e24f40;
+  --sun: #f5c84b;
+  --lilac: #c9a0e8;
+  --paper: #fff6e8;
+  --paper-2: #ffe9c9;
+  --harbor: #1b2b3a;
+  --harbor-soft: #33475a;
+  --foam: #f7fbff;
+  --cafe: #e8d4b8;
+  --cafe-deep: #c4a882;
+  --white: #ffffff;
+
+  --font-display: 'Unbounded', system-ui, sans-serif;
+  --font-body: 'Onest', system-ui, sans-serif;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+  --space-9: 7rem;
+
+  --radius-sm: 0.6rem;
+  --radius-md: 1.1rem;
+  --radius-lg: 1.75rem;
+  --radius-pill: 999px;
+
+  --shadow-soft: 0 18px 40px rgba(27, 43, 58, 0.12);
+  --header-h: 4.25rem;
+  --content: min(1120px, calc(100% - 2.5rem));
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
