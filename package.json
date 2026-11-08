@@ -1,0 +1,9 @@
+{
+  "name": "ostrovok-radosti-dizardi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static website for Островок радости Дизарди",
+  "scripts": {
+    "test": "node --test"
+  }
+}
